@@ -1,3 +1,5 @@
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=%2379A500&height=67&duration=3000&center=true&lines=%F0%9F%85%B6%F0%9F%86%81%F0%9F%85%B4%F0%9F%85%B4%F0%9F%86%83%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6%F0%9F%86%82">
+
 <img src="https://github.com/Sonix0521/Sonix0521/blob/d1e2bcf2d9b7cd70849021008547ebcc69428b0c/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.gif" alt="Sonix0521 Banner">
 
 
@@ -5,14 +7,10 @@
 
 <p><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=%2379A500&height=67&duration=3000&center=true&lines=%F0%9F%85%B6%F0%9F%86%81%F0%9F%85%B4%F0%9F%85%B4%F0%9F%86%83%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6%F0%9F%86%82">
-
-<p align="center"> 
+<div align="center"> 
   <div align="center">Visitor count</div>
-  <div align="center">
-    <img src="https://profile-counter.glitch.me/Sonix0521/count.svg"/>
-  </div> 
-</p>
+    <img src="https://profile-counter.glitch.me/Sonix0521/count.svg"/> 
+</div>
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px>  </picture> Github Stats
 
