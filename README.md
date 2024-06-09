@@ -17,7 +17,7 @@
 </div>
 
 
-<img src="https://github.com/Sonix0521/Sonix0521/blob/d1e2bcf2d9b7cd70849021008547ebcc69428b0c/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.gif" alt="Sonix0521 Banner">
+<img src="GitHub Profile Banner.gif" alt="Sonix0521 Banner">
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
