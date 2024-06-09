@@ -171,8 +171,3 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=30&pause=1000&color=F7206A&center=true&vCenter=true&random=false&width=435&lines=THANK+YOU+FOR+VISITING+%F0%9F%91%8B%F0%9F%8F%BC" alt="Typing SVG" /></a>
 </div>
 <!-- -------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
-
-
-<p align="center">
-        <img src="Gif Icons/Footer Animation Gif.gif" alt="Github Stats" width="900" />
-</p>
