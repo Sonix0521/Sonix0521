@@ -21,6 +21,18 @@
 
 <br>
 
+
+<!-- ---------------------------------------- Visit Count ---------------------------------------- -->
+<div align="center"> 
+  <h3 align="center">Visitor count</h3>
+  <img src="https://profile-counter.glitch.me/Sonix0521/count.svg"/> 
+</div>
+<!-- --------------------------------------------------------------------------------------------- -->
+
+
+<br>
+
+
 <!-- ---------------------------------------------------------------------- Welcome Message ---------------------------------------------------------------------- -->
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=26&pause=1000&center=true&vCenter=true&multiline=true&random=false&width=435&lines=WELCOME+TO+MY+GITHUB+PROFILE+!" alt="Typing SVG" /></a>
@@ -49,17 +61,21 @@
 
 <br>
 
-
+<!-- -------------------------------------------------------------------- Follow & Star Count -------------------------------------------------------------------- -->
+<div align="center">
+      <a href="https://github.com/Sonix0521?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Sonix0521?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/Sonix0521?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Sonix0521?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+</div>
+<!-- ------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
 
 <p><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p>
 
-<div align="center"> 
-  <h3 align="center">Visitor count</h3>
-    <img src="https://profile-counter.glitch.me/Sonix0521/count.svg"/> 
-</div>
 
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px>  </picture> Github Stats
+
+## <picture> <img src="Gif Icons/Stats Icon Gif.gif" width="30px"> </picture> Github Stats
 
 
 <a href="https://github.com/Sonix0521">
@@ -75,12 +91,6 @@
 </a>
 
 
-<p align="left">
-      <a href="https://github.com/Sonix0521?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Sonix0521?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/Sonix0521?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Sonix0521?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-</p>
 
 
 
@@ -106,7 +116,7 @@
 
 
 
-# <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"> Languages and Tools:
+# <img src="Gif Icons/Programming Languages Icon Gif.gif" width="32px"> Languages and Tools:
 
 <table>
 
@@ -161,3 +171,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=30&pause=1000&color=F7206A&center=true&vCenter=true&random=false&width=435&lines=THANK+YOU+FOR+VISITING+%F0%9F%91%8B%F0%9F%8F%BC" alt="Typing SVG" /></a>
 </div>
 <!-- -------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
+
+
+<p align="center">
+        <img src="Gif Icons/Footer Animation Gif.gif" alt="Github Stats" width="900" />
+</p>
