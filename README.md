@@ -1,4 +1,37 @@
+<!-- --------------------------------------- Greetings Gif --------------------------------------- -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=%2379A500&height=67&duration=3000&center=true&lines=%F0%9F%85%B6%F0%9F%86%81%F0%9F%85%B4%F0%9F%85%B4%F0%9F%86%83%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6%F0%9F%86%82">
+</div>
+<!-- --------------------------------------------------------------------------------------------- -->
 
+
+<br>
+
+
+<!-- --------------------------------------- Animated Horizontal Line --------------------------------------- -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- -------------------------------------------------------------------------------------------------------- -->
+<!-- --------------------------------------- GitHub Banner --------------------------------------- -->
+<img src="GitHub Profile Banner.gif" alt="Sonix0521 Banner">
+<!-- --------------------------------------------------------------------------------------------- -->
+<!-- --------------------------------------- Animated Horizontal Line --------------------------------------- -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- -------------------------------------------------------------------------------------------------------- -->
+
+
+<br>
+
+<!-- ---------------------------------------------------------------------- Welcome Message ---------------------------------------------------------------------- -->
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=26&pause=1000&center=true&vCenter=true&multiline=true&random=false&width=435&lines=WELCOME+TO+MY+GITHUB+PROFILE+!" alt="Typing SVG" /></a>
+</div>
+<!-- ------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
+
+
+<br>
+
+
+<!-- ------------------------------------------------------------------------ GitHub About ----------------------------------------------------------------------- -->
 <table>
   <td>
   <div align="center">
@@ -11,17 +44,13 @@
   </div>
   </td>
 </table>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=%2379A500&height=67&duration=3000&center=true&lines=%F0%9F%85%B6%F0%9F%86%81%F0%9F%85%B4%F0%9F%85%B4%F0%9F%86%83%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6%F0%9F%86%82">
-</div>
+<!-- ------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
 
-<img src="GitHub Profile Banner.gif" alt="Sonix0521 Banner">
+<br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=25&pause=1000&background=5AFF9500&repeat=false&random=false&width=435&lines=WELCOME+TO+MY+GITHUB+PROFILE+!!!)](https://git.io/typing-svg)
+
 
 <p><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p>
 
@@ -57,7 +86,7 @@
 
 
 
-# <img src="" width="32px"> Connect with me
+# <picture> <img src = "Gif Icons/Connect Icon Gif.gif" width = 30px>  </picture> Connect with me
 <div align="center">
 <a href="https://twitter.com/subhadeepzilong" target="blank"><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/twitter.svg" alt="Sonix0521" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/subhadeep-chakraborty-b341a8191" target="blank"><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/linked-in-alt.svg" alt="Sonix0521" height="30" width="40"/></a>
@@ -127,9 +156,8 @@
 </table>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=25&pause=1000&color=F70000&background=5AFF9500&repeat=false&random=false&width=435&lines=THANKS+FOR+VISITING+!!!)](https://git.io/typing-svg)
-
-
-
-<!--Horizontal Ruler-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- ---------------------------------------------------------------------- Thankyou Message ---------------------------------------------------------------------- -->
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=30&pause=1000&color=F7206A&center=true&vCenter=true&random=false&width=435&lines=THANK+YOU+FOR+VISITING+%F0%9F%91%8B%F0%9F%8F%BC" alt="Typing SVG" /></a>
+</div>
+<!-- -------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
