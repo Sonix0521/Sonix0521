@@ -1,6 +1,8 @@
+<br>
+
 <!-- --------------------------------------- Greetings Gif --------------------------------------- -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=%2379A500&height=67&duration=3000&center=true&lines=%F0%9F%85%B6%F0%9F%86%81%F0%9F%85%B4%F0%9F%85%B4%F0%9F%86%83%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6%F0%9F%86%82">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=%23fe4d00&height=67&duration=3000&center=true&lines=%F0%9F%85%B6%F0%9F%86%81%F0%9F%85%B4%F0%9F%85%B4%F0%9F%86%83%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6%F0%9F%86%82">
 </div>
 <!-- --------------------------------------------------------------------------------------------- -->
 
@@ -22,20 +24,9 @@
 <br>
 
 
-<!-- ---------------------------------------- Visit Count ---------------------------------------- -->
-<div align="center"> 
-  <h3 align="center">Visitor count</h3>
-  <img src="https://profile-counter.glitch.me/Sonix0521/count.svg"/> 
-</div>
-<!-- --------------------------------------------------------------------------------------------- -->
-
-
-<br>
-
-
 <!-- ---------------------------------------------------------------------- Welcome Message ---------------------------------------------------------------------- -->
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=26&pause=1000&center=true&vCenter=true&multiline=true&random=false&width=435&lines=WELCOME+TO+MY+GITHUB+PROFILE+!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=25&pause=1000&random=false&width=435&lines=WELCOME+TO+MY+GITHUB+PROFILE+%F0%9F%A4%9D" alt="Typing SVG" /></a>
 </div>
 <!-- ------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
@@ -44,7 +35,7 @@
 
 
 <!-- ------------------------------------------------------------------------ GitHub About ----------------------------------------------------------------------- -->
-<table>
+<table width="400">
   <td>
   <div align="center">
     <samp>
@@ -59,6 +50,65 @@
 <!-- ------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
 
+
+
+
+<!-- -------------------------------------------------------------------------------------- Social's --------------------------------------------------------------------------------------- -->
+<h3 align="center"> <img src="Gif Icons/Connect Icon Gif.gif" width="18px">  &nbsp; Connect With Me &nbsp; <img src="Gif Icons/Connect Icon Gif.gif" width="18px"> </h3>
+  
+<table align="center">
+
+<td> <a href="mailto:saniduwickramasinghe@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/doodle/2x/gmail-new.png" alt="Sonix0521" height="30" width="30"></a> </td>
+<td> <a href="https://www.linkedin.com/in/sanidu-wickramasinghe-649619310/" target="blank"><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/linked-in-alt.svg" alt="Sonix0521" height="30" width="40"/></a> </td>
+<td> <a href="https://x.com/Sanidu0521" target="blank"><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/twitter.svg" alt="Sonix0521" height="30" width="40" /></a> </td> 
+<td> <a href="https://instagram.com/_mahith.007" target="blank"><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/instagram.svg" alt="Sonix0521" height="30" width="40"/></a> </td>
+</div>
+
+</table>
+<!-- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
+
+
+<br>
+
+
+<!-- ---------------------------------------------------------------------- Profile Summary ---------------------------------------------------------------------- -->
+---
+<a target="_blank">
+  <img align="right" height="200" width="300" alt="Summary Gif" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif">
+</a>
+
+▶ 📚 I’m currently learning **JavaScript**
+
+▶ 🎓 I’m an Undergraduate at **IIT**
+
+▶ 💬 Ask me about **Java | Python | Web development**
+
+▶ 📥 How to reach me &nbsp; **[![Gmail Badge](https://img.shields.io/badge/-saniduwickramasinghe@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:saniduwickramasinghe@gmail.com)](mailto:saniduwickramasinghe@gmail.com)**
+
+▶ 🎖️ Check out my Stats & skills 
+<a href="https://www.hackerrank.com/profile/sanidu0521" target="blank"><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/hackerrank.svg" alt="Sonix0521" height="30" width="40" /></a> &nbsp; 
+<a href="https://www.geeksforgeeks.org/user/saniduaoc5" target="blank"><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/geeks-for-geeks.svg" alt="Sonix0521" height="30" width="40" /></a> &nbsp; 
+<a href="https://leetcode.com/u/sanidu0521" target="blank"><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/leet-code.svg" alt="Sonix0521" height="30" width="40"/></a>
+
+---
+<!-- ------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
+
+
+<br>
+
+
+<!-- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
+# <picture> <img src="Gif Icons/Stats Icon Gif.gif" width="25px"> </picture> Github Stats :
+
+<br>
+
+<!-- ---------------------------------------- Visit Count ---------------------------------------- -->
+<div align="center"> 
+  <h3 align="center">Visitor count</h3>
+  <img src="https://profile-counter.glitch.me/Sonix0521/count.svg"/> 
+</div>
+<!-- --------------------------------------------------------------------------------------------- -->
+
 <br>
 
 <!-- -------------------------------------------------------------------- Follow & Star Count -------------------------------------------------------------------- -->
@@ -70,55 +120,41 @@
 </div>
 <!-- ------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
+<br>
 
-<p><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p>
-
-
-
-## <picture> <img src="Gif Icons/Stats Icon Gif.gif" width="30px"> </picture> Github Stats
-
-
+<table align="center">
 <a href="https://github.com/Sonix0521">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sonix0521&count_private=true&theme=radical&date" alt="Sonix0521" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Sonix0521&show_icons=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Sonix0521's GitHub Stats">
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sonix0521&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Sonix0521 github stats" height="180px"/>
+    <td>
+      <img width="400px" src="https://github-readme-stats.vercel.app/api?username=Sonix0521&show_icons=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Sonix0521's GitHub Stats">
+      <br><br>
+      <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=Sonix0521&count_private=true&theme=radical&date" alt="Sonix0521"/>
+    </td>
+    <td>
+      <img width="400px" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWw0amhheDNnOGQzY3A5bmpxbzdsY3loN2Y1OHJ2OGhiYzBnZGFiZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WmBl8pvjfyYUszw1TS/giphy.gif">
+    </td>
 </a>
+</table>
+
+<table align="center">
+    <td>
+      <img width="250px" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHBwbmlpM3plYjFhZjdmOXRjYjhqdXNrcTd3a2c3dTcza3l5dmR5dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cNrZyXIZHSLYTqtWJI/giphy.gif">
+    </td>
+    <td>
+      <img width="350px" align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sonix0521&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=11" alt="Sonix0521"/>
+    </td>
+</table>
+<!-- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
 
-<a target="_blank">
-  <img align="right" height="250" width="400" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif">
-</a>
+<br>
 
 
+<!-- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
+# <img src="Gif Icons/Programming Languages Icon Gif.gif" width="25px"> Languages and Tools :
 
+<br>
 
-
-
-
-# <picture> <img src = "Gif Icons/Connect Icon Gif.gif" width = 30px>  </picture> Connect with me
-<div align="center">
-<a href="https://twitter.com/subhadeepzilong" target="blank"><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/twitter.svg" alt="Sonix0521" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/subhadeep-chakraborty-b341a8191" target="blank"><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/linked-in-alt.svg" alt="Sonix0521" height="30" width="40"/></a>
-<a href="https://instagram.com/subhadeepzilong" target="blank"><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/instagram.svg" alt="Sonix0521" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/subhadeepchakra3" target="blank"><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/hackerrank.svg" alt="Sonix0521" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/subhadeepchakraborty555" target="blank"><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/geeks-for-geeks.svg" alt="Sonix0521" height="30" width="40" /></a>
-<a href="https://leetcode.com/subhadeepchakraborty555/" target="blank"><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/leet-code.svg" alt="Sonix0521" height="30" width="40"/></a>
-<a href="" target="blank"><img align="center" src="https://img.icons8.com/doodle/2x/gmail-new.png" alt="Sonix0521" height="30" width="30"></a>
-</div>
-
-
-
-
-
-
-
-
-
-
-# <img src="Gif Icons/Programming Languages Icon Gif.gif" width="32px"> Languages and Tools:
-
-<table>
+<table align="center">
 
 <tr>
   <th width="20%"> <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width="50px"> </picture> <br> Programming languages </th>
@@ -164,10 +200,32 @@
 </tr>
 
 </table>
+<!-- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
+
+
+<br>
+
+
+<!-- ----------------------------------------------------------------------------- Keep Coding Gif ----------------------------------------------------------------------------- -->
+<div align="center">
+<img width="420px" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzBzYWcxdHFmY2ZjdHY5ZGZscWYwZWZ3aHh5dDlzaDVnbTN1bGEzOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CcwLAV11cALh3OuEJ5/giphy.gif">
+</div>
+<!-- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
+
+
+<br>
 
 
 <!-- ---------------------------------------------------------------------- Thankyou Message ---------------------------------------------------------------------- -->
+<br>
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=30&pause=1000&color=F7206A&center=true&vCenter=true&random=false&width=435&lines=THANK+YOU+FOR+VISITING+%F0%9F%91%8B%F0%9F%8F%BC" alt="Typing SVG" /></a>
 </div>
 <!-- -------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
+
+
+<!-- ----------------------------------------------- Footer Wave ----------------------------------------------- -->
+<div align="center">
+        <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
+</div>
+<!-- ----------------------------------------------------------------------------------------------------------- -->
