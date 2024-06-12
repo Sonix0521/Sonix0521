@@ -26,7 +26,7 @@
 
 <!-- ---------------------------------------------------------------------- Welcome Message ---------------------------------------------------------------------- -->
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=25&pause=1000&random=false&width=435&lines=WELCOME+TO+MY+GITHUB+PROFILE+%F0%9F%A4%9D" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=25&pause=1000&random=false&width=435&lines=WELCOME+TO+MY+GITHUB+PROFILE+%F0%9F%A4%9D" alt="Typing SVG" />
 </div>
 <!-- ------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
@@ -73,9 +73,7 @@
 
 <!-- ---------------------------------------------------------------------- Profile Summary ---------------------------------------------------------------------- -->
 ---
-<a target="_blank">
-  <img align="right" height="200" width="300" alt="Summary Gif" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif">
-</a>
+<img align="right" height="200" width="300" alt="Summary Gif" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif">
 
 ▶ 📚 I’m currently learning **JavaScript**
 
@@ -111,17 +109,14 @@
 
 <!-- -------------------------------------------------------------------- Follow & Star Count -------------------------------------------------------------------- -->
 <div align="center">
-      <a href="https://github.com/Sonix0521?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Sonix0521?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/Sonix0521?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Sonix0521?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+      <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Sonix0521?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+      <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Sonix0521?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
 </div>
 <!-- ------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
 <br>
 
 <table align="center">
-<a href="https://github.com/Sonix0521">
     <td>
       <img width="400px" src="https://github-readme-stats.vercel.app/api?username=Sonix0521&show_icons=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Sonix0521's GitHub Stats">
       <br><br>
@@ -130,7 +125,6 @@
     <td>
       <img width="400px" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWw0amhheDNnOGQzY3A5bmpxbzdsY3loN2Y1OHJ2OGhiYzBnZGFiZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WmBl8pvjfyYUszw1TS/giphy.gif">
     </td>
-</a>
 </table>
 
 <table align="center">
@@ -217,7 +211,7 @@
 <!-- ---------------------------------------------------------------------- Thankyou Message ---------------------------------------------------------------------- -->
 <br>
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=30&pause=1000&color=F7206A&center=true&vCenter=true&random=false&width=435&lines=THANK+YOU+FOR+VISITING+%F0%9F%91%8B%F0%9F%8F%BC" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=30&pause=1000&color=F7206A&center=true&vCenter=true&random=false&width=435&lines=THANK+YOU+FOR+VISITING+%F0%9F%91%8B%F0%9F%8F%BC" alt="Typing SVG" />
 </div>
 <!-- -------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
