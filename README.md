@@ -55,16 +55,16 @@
 
 <!-- -------------------------------------------------------------------------------------- Social's --------------------------------------------------------------------------------------- -->
 <h3 align="center"> <img src="Gif Icons/Connect Icon Gif.gif" width="18px">  &nbsp; Connect With Me &nbsp; <img src="Gif Icons/Connect Icon Gif.gif" width="18px"> </h3>
-  
-<table align="center">
 
+<div align="center">  
+<table>
 <td> <a href="mailto:saniduwickramasinghe@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/doodle/2x/gmail-new.png" alt="Sonix0521" height="30" width="30"></a> </td>
 <td> <a href="https://www.linkedin.com/in/sanidu-wickramasinghe-649619310/" target="blank"><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/linked-in-alt.svg" alt="Sonix0521" height="30" width="40"/></a> </td>
 <td> <a href="https://x.com/Sanidu0521" target="blank"><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/twitter.svg" alt="Sonix0521" height="30" width="40" /></a> </td> 
 <td> <a href="https://instagram.com/_mahith.007" target="blank"><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/instagram.svg" alt="Sonix0521" height="30" width="40"/></a> </td>
-</div>
-
 </table>
+</div>
+  
 <!-- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
 
