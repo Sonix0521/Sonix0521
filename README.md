@@ -123,15 +123,6 @@
       <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=Sonix0521&count_private=true&theme=radical&date" alt="Sonix0521"/>
     </td>
     <td>
-      <img width="380px" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWw0amhheDNnOGQzY3A5bmpxbzdsY3loN2Y1OHJ2OGhiYzBnZGFiZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WmBl8pvjfyYUszw1TS/giphy.gif">
-    </td>
-</table>
-
-<table align="center">
-    <td>
-      <img width="330px" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHBwbmlpM3plYjFhZjdmOXRjYjhqdXNrcTd3a2c3dTcza3l5dmR5dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cNrZyXIZHSLYTqtWJI/giphy.gif">
-    </td>
-    <td>
       <img width="350px" align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sonix0521&theme=algolia&date&hide_border=true&no-bg=true&no-frame=true&langs_count=11" alt="Sonix0521"/>
     </td>
 </table>
