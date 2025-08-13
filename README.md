@@ -142,7 +142,7 @@
 <tr>
   <th width="20%"> <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width="50px"> </picture> <br> Programming languages </th>
   <th width="20%"> <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width="50px"> </picture> <br> Frontend Development </th>
-  <th width="20%"> <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width="50px"> </picture> <br> Data Analysis </th>
+  <th width="20%"> <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width="50px"> </picture> <br> Data Base </th>
   <th width="20%"> <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width="50px"> </picture> <br> Version Control & Tools </th>
   <th width="20%"> <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width="50px"> </picture> <br> IDEs </th> 
 <tr>
